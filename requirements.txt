@@ -1,7 +1,0 @@
-streamlit
-bcrypt
-pyjwt
-matplotlib
-pandas
-transformers
-torch
