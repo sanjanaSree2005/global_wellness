@@ -1,0 +1,8 @@
+streamlit
+bcrypt
+PyJWT
+pandas
+matplotlib
+seaborn
+transformers
+torch
